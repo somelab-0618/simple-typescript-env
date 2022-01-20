@@ -19,6 +19,7 @@ npx tsc app.ts
 ```
 
 3. lite-serverの使用
+ホットリロードに対応した、簡易開発サーバーです。
 
 npm scriptで
 ```
@@ -43,5 +44,3 @@ npx lite-server
  UI External: http://localhost:3003
  -------------------------------------
 ```
-
-ホットリロード対応です。
