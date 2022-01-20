@@ -44,3 +44,6 @@ $ npx lite-server
  UI External: http://localhost:3003
  -------------------------------------
 ```
+
+終了はターミナルで `Ctrl + C` です。
+
