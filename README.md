@@ -8,14 +8,14 @@
 ルートディレクトリで下記コマンド実行
 
 ```
-npm install
+$ npm install
 ```
 TypeScriptとlite-serverがインストールされます。
 
 2. Typsecript のコンパイル実行例
 
 ```
-npx tsc app.ts
+$ npx tsc app.ts
 ```
 
 3. lite-serverの使用
@@ -23,12 +23,12 @@ npx tsc app.ts
 
 npm scriptで
 ```
-npm start
+$ npm start
 ```
 
 npxで
 ```
-npx lite-server
+$ npx lite-server
 ```
 
 自動的にブラウザが開きます。
