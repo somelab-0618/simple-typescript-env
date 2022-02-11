@@ -1,5 +1,5 @@
 # simple-typescript-env
-TypeScritpt実行環境ベース
+基本的なTypeScritpt実行環境ベース
 
 # 使用方法
 
